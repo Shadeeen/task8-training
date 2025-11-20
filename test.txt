@@ -1,1 +1,1 @@
-this is the original line
+"Branch 1 changed this line" 
